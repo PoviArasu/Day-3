@@ -1,0 +1,25 @@
+let resume={
+    "Basics": {
+      "name": "Poviarasu K ",
+      "email": "povisraran6307 @gmail.com",
+      "phone": "7871810914",
+      "degree": "B.E-ECE",
+      "address": "No.13/41 CD, Narayana Palayam street ",
+        "postalCode": "631502",
+        "city": "Kanchipuram",
+        "State": "TamilNadu"
+      },
+      
+    
+    
+    "Education": 
+      {
+        "School": "Bharadhisan Matriculation Higher Secondary School",
+        "College": "saveetha school of Engineering",
+        "gpa": "8.1",
+        "courses": "Electronics and communication Engineering"
+      }
+    
+    
+  }
+  console.log(resume.Basics);
